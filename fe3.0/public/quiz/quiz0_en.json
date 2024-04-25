@@ -1,0 +1,766 @@
+{
+  "data": [
+    {
+      "content": "When using equipment such as chainsaws and lawn mowers, do you:",
+      "options": [
+        {
+          "content": "a) Operate without any specific precautions.",
+          "isCorrect": false
+        },
+        {
+          "content": "b) Check for and follow local guidelines regarding operation during fire season.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Use spark arresters and clear the area of flammable materials.",
+          "isCorrect": true
+        },
+        {
+          "content": "d) Operate only during wet weather conditions.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How do you dispose of garden waste such as leaves and branches?",
+      "options": [
+        {
+          "content": "a) Burn them immediately in the garden.",
+          "isCorrect": false
+        },
+        {
+          "content": "b) Leave them in the yard.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Take them to a community green waste disposal site.",
+          "isCorrect": true
+        },
+        {
+          "content": "d) Compost them in a closed container.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What do you do when you hear about a Total Fire Ban?",
+      "options": [
+        {
+          "content": "a) Continue with your planned barbecue or outdoor fire.",
+          "isCorrect": false
+        },
+        {
+          "content": "b) Check if the ban applies to your area and then decide.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Postpone any outdoor fires or use of equipment that could start a fire.",
+          "isCorrect": true
+        },
+        {
+          "content": "d) Ignore the ban as it is unlikely to affect you.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Do you have a bushfire survival plan in place?",
+      "options": [
+        {
+          "content": "a) No, I don't think it's necessary.",
+          "isCorrect": false
+        },
+        { "content": "b) I am not sure what that is.", "isCorrect": false },
+        {
+          "content": "c) Yes, and I review and practice it regularly.",
+          "isCorrect": true
+        },
+        {
+          "content": "d) Yes, but it's outdated and I haven't looked at it in a while.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "In the event of a bushfire warning, how do you stay informed?",
+      "options": [
+        { "content": "a) I wait for someone to tell me.", "isCorrect": false },
+        {
+          "content": "b) I occasionally check social media.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) I monitor official channels like local radio, emergency apps, and government alerts. (Correct Answer)",
+          "isCorrect": true
+        },
+        {
+          "content": "d) I don't have a specific plan for staying informed.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How often do you clear your property of leaves, twigs, and other debris?",
+      "options": [
+        { "content": "a) Once a year.", "isCorrect": false },
+        {
+          "content": "b) When I notice a lot of debris has accumulated.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Regularly throughout the year, especially during fire season. (Correct Answer)",
+          "isCorrect": true
+        },
+        {
+          "content": "d) I leave it to decompose naturally as part of the ecosystem.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "When camping, how do you manage your campfire?",
+      "options": [
+        {
+          "content": "a) I make a campfire without containment.",
+          "isCorrect": false
+        },
+        {
+          "content": "b) I use a designated fire pit but don't always extinguish it when I'm done.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) I always use a designated fire pit and ensure the fire is completely out before leaving it unattended. (Correct Answer)",
+          "isCorrect": true
+        },
+        { "content": "d) I prefer not to make a campfire.", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Do you know how to use firefighting equipment such as extinguishers and fire blankets?",
+      "options": [
+        { "content": "a) No, I've never used them.", "isCorrect": false },
+        {
+          "content": "b) I have a vague idea but I'm not confident.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Yes, I'm trained and comfortable using them in an emergency. (Correct Answer)",
+          "isCorrect": true
+        },
+        {
+          "content": "d) I leave firefighting to the professionals.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "If you spot a small and manageable bushfire, do you:",
+      "options": [
+        {
+          "content": "a) Ignore it; it's probably nothing.",
+          "isCorrect": false
+        },
+        {
+          "content": "b) Try to put it out yourself without calling for help.",
+          "isCorrect": false
+        },
+        {
+          "content": "c) Call emergency services immediately. (Correct Answer)",
+          "isCorrect": true
+        },
+        {
+          "content": "d) Warn the neighbors but take no further action.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Do you prune trees and shrubs on your property to reduce fire risk?",
+      "options": [
+        { "content": "a) No, I like the natural look.", "isCorrect": false },
+        { "content": "b) Sometimes, when I remember.", "isCorrect": false },
+        {
+          "content": "c) Yes, I keep plants well-pruned and manage vegetation growth. (Correct Answer)",
+          "isCorrect": true
+        },
+        {
+          "content": "d) I don't have any trees or shrubs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the primary cause of climate change?",
+      "options": [
+        { "content": "A) Solar variability", "isCorrect": false },
+        { "content": "B) Natural disasters", "isCorrect": false },
+        { "content": "C) Human activities", "isCorrect": true },
+        { "content": "D) Orbital variations of Earth", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which greenhouse gas contributes most to global warming?",
+      "options": [
+        { "content": "A) Methane", "isCorrect": false },
+        { "content": "B) Carbon dioxide", "isCorrect": true },
+        { "content": "C) Nitrous oxide", "isCorrect": false },
+        { "content": "D) Ozone", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How do bushfires contribute to climate change?",
+      "options": [
+        {
+          "content": "A) By releasing stored carbon dioxide",
+          "isCorrect": true
+        },
+        { "content": "B) By absorbing carbon dioxide", "isCorrect": false },
+        { "content": "C) By cooling the surrounding area", "isCorrect": false },
+        { "content": "D) They do not contribute", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What can you do to reduce your carbon footprint?",
+      "options": [
+        { "content": "A) Increase meat consumption", "isCorrect": false },
+        { "content": "B) Use public transportation", "isCorrect": true },
+        { "content": "C) Use more heating", "isCorrect": false },
+        { "content": "D) Travel by airplane frequently", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which energy source emits the least greenhouse gases?",
+      "options": [
+        { "content": "A) Coal", "isCorrect": false },
+        { "content": "B) Oil", "isCorrect": false },
+        { "content": "C) Wind", "isCorrect": true },
+        { "content": "D) Natural gas", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which activity does NOT reduce your risk of contributing to bushfire hazards?",
+      "options": [
+        {
+          "content": "A) Clearing vegetation around your home",
+          "isCorrect": false
+        },
+        { "content": "B) Regularly cleaning your gutters", "isCorrect": false },
+        {
+          "content": "C) Storing flammable materials outside your home",
+          "isCorrect": true
+        },
+        { "content": "D) Creating an evacuation plan", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a significant effect of bushfires on the environment?",
+      "options": [
+        { "content": "A) Loss of biodiversity", "isCorrect": true },
+        { "content": "B) Increase in river flows", "isCorrect": false },
+        { "content": "C) Cooling of the air", "isCorrect": false },
+        { "content": "D) Reduction in soil erosion", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which practice is effective in reducing home energy use?",
+      "options": [
+        { "content": "A) Keeping appliances on standby", "isCorrect": false },
+        { "content": "B) Using incandescent bulbs", "isCorrect": false },
+        { "content": "C) Insulating your home", "isCorrect": true },
+        {
+          "content": "D) Setting the thermostat higher in winter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the best description of renewable energy?",
+      "options": [
+        {
+          "content": "A) Energy from sources that are replenished naturally",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Energy from unlimited sources like coal",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Energy from organic materials only",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Energy that can be reused without processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How often should you review and practice your bushfire survival plan?",
+      "options": [
+        { "content": "A) Once every few years", "isCorrect": false },
+        { "content": "B) Annually", "isCorrect": true },
+        { "content": "C) Only once when you create it", "isCorrect": false },
+        { "content": "D) Every five years", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "When purchasing appliances, what symbol indicates energy efficiency?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Red star", "isCorrect": false },
+        { "content": "B) Energy Star label", "isCorrect": true },
+        { "content": "C) Blue cross", "isCorrect": false },
+        { "content": "D) Green circle", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which is NOT a recommended practice to reduce water usage?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Taking shorter showers", "isCorrect": false },
+        { "content": "B) Using a hose to clean driveways", "isCorrect": true },
+        { "content": "C) Installing low-flow faucets", "isCorrect": false },
+        {
+          "content": "D) Watering gardens in the early morning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How does planting trees help combat climate change?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Trees absorb carbon dioxide", "isCorrect": true },
+        { "content": "B) Trees block solar radiation", "isCorrect": false },
+        { "content": "C) Trees increase air pollution", "isCorrect": false },
+        { "content": "D) Trees reflect heat upwards", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is the impact of buying local produce on the environment?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        {
+          "content": "A) Reduces carbon emissions from transportation",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Increases use of agricultural chemicals",
+          "isCorrect": false
+        },
+        { "content": "C) Reduces biodiversity", "isCorrect": false },
+        { "content": "D) Increases water usage", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why is reducing meat consumption beneficial for the environment?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Decreases methane production", "isCorrect": true },
+        {
+          "content": "B) Increases land use for agriculture",
+          "isCorrect": false
+        },
+        { "content": "C) Reduces plant biomass", "isCorrect": false },
+        {
+          "content": "D) Increases carbon dioxide absorption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What should you do if a bushfire warning is issued for your area?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Follow local evacuation plans", "isCorrect": true },
+        {
+          "content": "B) Ignore unless visible smoke is present",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Close windows and continue normal activities",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Attempt to extinguish fire fronts alone",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which factor does NOT affect your home's vulnerability to bushfires?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        { "content": "A) Proximity to wooded areas", "isCorrect": false },
+        { "content": "B) Color of your home", "isCorrect": true },
+        { "content": "C) Building materials", "isCorrect": false },
+        {
+          "content": "D) Presence of combustible materials around the house",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How can you personally contribute to scientific research on climate change?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        {
+          "content": "A) By ignoring conservation guidelines",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Participating in citizen science projects",
+          "isCorrect": true
+        },
+        { "content": "C) Investing in fossil fuels", "isCorrect": false },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is the most effective way to conserve water at home?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        {
+          "content": "A) Keeping the tap running when brushing teeth",
+          "isCorrect": false
+        },
+        { "content": "B) Washing cars frequently", "isCorrect": false },
+        { "content": "C) Fixing leaks", "isCorrect": true },
+        { "content": "D) Using a larger dishwasher load", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which is an effect of global warming on weather patterns?",
+      "theme": "Personal Responsibility and Actions",
+      "options": [
+        {
+          "content": "A) Increased intensity of hurricanes",
+          "isCorrect": true
+        },
+        { "content": "B) Decreased sea levels", "isCorrect": false },
+        { "content": "C) Stabilization of temperatures", "isCorrect": false },
+        { "content": "D) Fewer droughts", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What role do wetlands play in combating climate change?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) They store large amounts of carbon",
+          "isCorrect": true
+        },
+        {
+          "content": "B) They emit methane into the atmosphere",
+          "isCorrect": false
+        },
+        { "content": "C) They increase land temperature", "isCorrect": false },
+        {
+          "content": "D) They are net emitters of carbon dioxide",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why is carpooling considered an effective method to reduce greenhouse gases?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) It reduces the number of vehicles on the road",
+          "isCorrect": true
+        },
+        {
+          "content": "B) It increases the use of gasoline",
+          "isCorrect": false
+        },
+        {
+          "content": "C) It limits public transportation usage",
+          "isCorrect": false
+        },
+        { "content": "D) It promotes vehicle maintenance", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which is NOT a benefit of using public transportation?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        { "content": "A) Reduces traffic congestion", "isCorrect": false },
+        {
+          "content": "B) Lowers greenhouse gas emissions per capita",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Increases individual transportation costs",
+          "isCorrect": true
+        },
+        {
+          "content": "D) Decreases reliance on non-renewable resources",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What should you do with electronic waste to minimize environmental impact?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) Recycle through certified e-waste centers",
+          "isCorrect": false
+        },
+        { "content": "B) Dispose of in regular trash", "isCorrect": true },
+        { "content": "C) Burn to reduce volume", "isCorrect": false },
+        { "content": "D) Bury in backyard", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What action can cities take to reduce their heat island effect?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        { "content": "A) Reduce park spaces", "isCorrect": false },
+        { "content": "B) Increase green cover", "isCorrect": true },
+        { "content": "C) Build more asphalt roads", "isCorrect": false },
+        { "content": "D) Increase building density", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How does overfishing contribute to climate change?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) Increases carbon capture in oceans",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Disrupts marine ecosystems and carbon storage",
+          "isCorrect": true
+        },
+        {
+          "content": "C) Reduces atmospheric nitrogen levels",
+          "isCorrect": false
+        },
+        { "content": "D) Enhances coral growth", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why is it important to support policies aimed at reducing carbon emissions?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) To mitigate the effects of global warming",
+          "isCorrect": true
+        },
+        {
+          "content": "B) To increase global oil production",
+          "isCorrect": false
+        },
+        { "content": "C) To reduce the cost of living", "isCorrect": false },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which household practice is NOT effective in reducing energy consumption?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) Upgrading to energy-efficient appliances",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Leaving lights on when not in the room",
+          "isCorrect": true
+        },
+        { "content": "C) Using programmable thermostats", "isCorrect": false },
+        { "content": "D) Sealing windows and doors", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a direct benefit of conserving natural habitats?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) Preserves biodiversity and stores carbon",
+          "isCorrect": true
+        },
+        { "content": "B) Increases local air pollution", "isCorrect": false },
+        { "content": "C) Reduces water availability", "isCorrect": false },
+        { "content": "D) Increases soil erosion", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which practice increases the risk of bushfires in residential areas?",
+      "theme": "Community Engagement and Global Impact",
+      "options": [
+        {
+          "content": "A) Regular removal of dead and dry vegetation",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Accumulation of combustible debris around property",
+          "isCorrect": true
+        },
+        {
+          "content": "C) Installing fire-resistant roofing materials",
+          "isCorrect": false
+        },
+        { "content": "D) Encouraging natural predators", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a sustainable practice for future city planning?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) Integrating renewable energy sources",
+          "isCorrect": true
+        },
+        { "content": "B) Expanding suburban development", "isCorrect": false },
+        {
+          "content": "C) Increasing dependence on private vehicles",
+          "isCorrect": false
+        },
+        { "content": "D) Reducing public spaces", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why should industries aim to reduce their water usage?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) To conserve water resources and reduce environmental impact",
+          "isCorrect": true
+        },
+        {
+          "content": "B) To increase their water-related expenditures",
+          "isCorrect": false
+        },
+        { "content": "C) To rely more on bottled water", "isCorrect": false },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which type of shopping is generally more carbon-efficient?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) Shopping at multiple small stores",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Consolidating purchases to fewer trips",
+          "isCorrect": true
+        },
+        {
+          "content": "C) Driving longer distances for sales",
+          "isCorrect": false
+        },
+        { "content": "D) Buying imported goods", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How does using a programmable thermostat at home reduce carbon emissions?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) By optimizing heating and cooling efficiency",
+          "isCorrect": true
+        },
+        { "content": "B) By increasing electricity use", "isCorrect": false },
+        { "content": "C) By cooling the home faster", "isCorrect": false },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What should be prioritized to ensure sustainable water management in agriculture?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        { "content": "A) Using drip irrigation systems", "isCorrect": true },
+        { "content": "B) Increasing pesticide use", "isCorrect": false },
+        {
+          "content": "C) Expanding water-intensive crop areas",
+          "isCorrect": false
+        },
+        { "content": "D) Reducing crop diversity", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why is it important to choose sustainably sourced fish?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) To prevent overfishing and protect marine biodiversity",
+          "isCorrect": true
+        },
+        { "content": "B) To increase the cost of fish", "isCorrect": false },
+        {
+          "content": "C) To promote the use of fishing equipment",
+          "isCorrect": false
+        },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is an effective way to reduce waste production?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        { "content": "A) Buying disposable products", "isCorrect": false },
+        {
+          "content": "B) Opting for reusable or recyclable items",
+          "isCorrect": true
+        },
+        { "content": "C) Choosing single-use plastics", "isCorrect": false },
+        {
+          "content": "D) Ignoring waste separation guidelines",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which action does NOT help reduce global warming?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        { "content": "A) Planting trees", "isCorrect": false },
+        { "content": "B) Conserving energy", "isCorrect": false },
+        { "content": "C) Expanding industrial activities", "isCorrect": true },
+        { "content": "D) Using renewable energy sources", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How can local governments encourage public transportation usage?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) By providing reliable and affordable services",
+          "isCorrect": true
+        },
+        {
+          "content": "B) By reducing the number of buses and trains",
+          "isCorrect": false
+        },
+        {
+          "content": "C) By increasing the cost of public transit",
+          "isCorrect": false
+        },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a key strategy for reducing the impact of bushfires?",
+      "theme": "Innovation and Future Planning",
+      "options": [
+        {
+          "content": "A) By providing reliable and affordable services",
+          "isCorrect": true
+        },
+        {
+          "content": "B) By reducing the number of buses and trains",
+          "isCorrect": false
+        },
+        {
+          "content": "C) By increasing the cost of public transit",
+          "isCorrect": false
+        },
+        { "content": "D) None of the above", "isCorrect": false }
+      ]
+    }
+  ]
+}

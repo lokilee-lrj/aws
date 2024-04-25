@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^4.1.2",
+    "axios": "^1.6.8",
+    "echarts": "^5.5.0",
+    "mapbox-gl": "^3.3.0",
+    "pinia": "^2.1.7",
+    "swiper": "^11.1.1",
+    "vue": "^3.4.21",
+    "vue-fullpage.js": "^0.2.17",
+    "vue-router": "^4.3.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6"
+  }
+}
