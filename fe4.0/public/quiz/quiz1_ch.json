@@ -1,0 +1,777 @@
+{
+  "data": [
+    {
+      "content": "What is a common natural cause of bushfires?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Snowfall", "isCorrect": false },
+        { "content": "B) Lightning", "isCorrect": true },
+        { "content": "C) Heavy rains", "isCorrect": false },
+        { "content": "D) Frost", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which human activity is known to increase the risk of bushfires?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Swimming in a lake", "isCorrect": false },
+        { "content": "B) Campfires", "isCorrect": true },
+        { "content": "C) Hiking", "isCorrect": false },
+        { "content": "D) Fishing", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How can climate change impact bushfire frequency?",
+      "theme": "Causes and Risks",
+      "options": [
+        {
+          "content": "A) By increasing temperatures and drought",
+          "isCorrect": true
+        },
+        { "content": "B) By increasing humidity", "isCorrect": false },
+        { "content": "C) By reducing vegetation", "isCorrect": false },
+        { "content": "D) By causing more snow", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which area is more prone to bushfires?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Wet tropical forests", "isCorrect": false },
+        { "content": "B) Dry eucalyptus forests", "isCorrect": true },
+        { "content": "C) High-altitude mountains", "isCorrect": false },
+        { "content": "D) Urban areas", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What weather condition significantly increases bushfire risk?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Snowy and cold", "isCorrect": false },
+        { "content": "B) Mild and humid", "isCorrect": false },
+        { "content": "C) Hot and windy", "isCorrect": true },
+        { "content": "D) Cool and breezy", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What effect does El Niño have on bushfire likelihood in Australia?",
+      "theme": "Causes and Risks",
+      "options": [
+        {
+          "content": "A) Increases it by creating drier conditions",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Decreases it by causing flooding",
+          "isCorrect": false
+        },
+        { "content": "C) No effect", "isCorrect": false },
+        {
+          "content": "D) Increases it by lowering temperatures",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which type of vegetation can exacerbate bushfire intensity?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Low-lying shrubs", "isCorrect": false },
+        { "content": "B) Tall, dense forests", "isCorrect": true },
+        { "content": "C) Deciduous trees", "isCorrect": false },
+        { "content": "D) Waterlogged plants", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why do eucalyptus trees often contribute to the spread of bushfires?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Their oil is highly flammable", "isCorrect": true },
+        { "content": "B) They attract lightning strikes", "isCorrect": false },
+        { "content": "C) They are predominantly water", "isCorrect": false },
+        { "content": "D) They fall easily", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What human action is a common cause of bushfires?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) Jogging in the park", "isCorrect": false },
+        { "content": "B) Discarding cigarettes carelessly", "isCorrect": true },
+        { "content": "C) Using electric vehicles", "isCorrect": false },
+        { "content": "D) Dog walking", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How does building material choice affect bushfire resilience?",
+      "theme": "Causes and Risks",
+      "options": [
+        { "content": "A) No impact", "isCorrect": true },
+        {
+          "content": "B) Non-flammable materials can help prevent fire spread",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Brighter colors increase fire risk",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Heavier materials burn more quickly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the primary method to prevent bushfires around residential areas?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) Clearing brush and flammable materials",
+          "isCorrect": true
+        },
+        { "content": "B) Planting more trees", "isCorrect": false },
+        { "content": "C) Installing more street lights", "isCorrect": false },
+        { "content": "D) Paving more areas", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What should you do before bushfire season starts?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) Prepare an emergency evacuation kit",
+          "isCorrect": true
+        },
+        { "content": "B) Buy new furniture", "isCorrect": false },
+        { "content": "C) Trim the grass very short", "isCorrect": false },
+        { "content": "D) Paint the house", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How often should you check and maintain firebreaks on your property?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        { "content": "A) Once every few years", "isCorrect": false },
+        { "content": "B) When you notice a fire nearby", "isCorrect": false },
+        { "content": "C) Annually before the fire season", "isCorrect": true },
+        { "content": "D) Biannually", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which practice is recommended to protect your home in a bushfire prone area?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        { "content": "A) Use wooden shingles for roofing", "isCorrect": false },
+        {
+          "content": "B) Install metal shutters on windows",
+          "isCorrect": true
+        },
+        { "content": "C) Decorate with dense foliage", "isCorrect": false },
+        { "content": "D) Use reflective glass", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a firebreak and why is it important?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) Cleared land that acts as a barrier to slow or stop fire spread",
+          "isCorrect": true
+        },
+        {
+          "content": "B) A chemical used to extinguish fires",
+          "isCorrect": false
+        },
+        {
+          "content": "C) A type of fire-resistant clothing",
+          "isCorrect": false
+        },
+        { "content": "D) Part of a sprinkler system", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What action is important when evacuating during a bushfire?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        { "content": "A) Take all your valuables", "isCorrect": false },
+        { "content": "B) Lock all doors and windows", "isCorrect": false },
+        { "content": "C) Leave as early as possible", "isCorrect": true },
+        { "content": "D) Turn off the main water line", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which is NOT a good practice for bushfire preparedness?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        { "content": "A) Having an evacuation plan", "isCorrect": false },
+        {
+          "content": "B) Keeping large quantities of dry wood near your house",
+          "isCorrect": true
+        },
+        { "content": "C) Practicing evacuation drills", "isCorrect": false },
+        {
+          "content": "D) Establishing a community alert system",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why should you have multiple predesignated evacuation routes?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) Some routes may be blocked or unsafe during a bushfire",
+          "isCorrect": true
+        },
+        {
+          "content": "B) It is less confusing than having just one",
+          "isCorrect": false
+        },
+        { "content": "C) It helps confuse the fire", "isCorrect": false },
+        {
+          "content": "D) To practice different driving skills",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the role of controlled burns in bushfire management?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) They reduce fuel load and decrease the intensity of future fires",
+          "isCorrect": true
+        },
+        {
+          "content": "B) They increase the soil fertility",
+          "isCorrect": false
+        },
+        {
+          "content": "C) They are purely for training firefighters",
+          "isCorrect": false
+        },
+        {
+          "content": "D) They test the community's preparedness",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How can homeowners ensure their property is visible to firefighters during a bushfire?",
+      "theme": "Prevention and Preparedness",
+      "options": [
+        {
+          "content": "A) By painting the roof bright colors",
+          "isCorrect": false
+        },
+        {
+          "content": "B) By clearly marking property entrances and house numbers",
+          "isCorrect": true
+        },
+        {
+          "content": "C) By using reflective materials on the exterior",
+          "isCorrect": false
+        },
+        {
+          "content": "D) By lighting fires to signal their location",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which material should be avoided in bushfire-prone areas due to its high flammability?",
+      "theme": "Community Actions and Response",
+      "options": [
+        { "content": "A) Concrete", "isCorrect": false },
+        { "content": "B) Adobe", "isCorrect": false },
+        { "content": "C) Wood", "isCorrect": true },
+        { "content": "D) Brick", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What does a 'bushfire attack level' indicate?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) The level of bushfire impact a building can withstand",
+          "isCorrect": true
+        },
+        {
+          "content": "B) The frequency of bushfires in the area",
+          "isCorrect": false
+        },
+        {
+          "content": "C) The speed at which a bushfire spreads",
+          "isCorrect": false
+        },
+        {
+          "content": "D) The number of firefighters available in the area",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why is it important to keep roofs and gutters clear of debris in bushfire-prone areas?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) To prevent embers from igniting materials accumulated there",
+          "isCorrect": true
+        },
+        {
+          "content": "B) It is purely for aesthetic reasons",
+          "isCorrect": false
+        },
+        { "content": "C) To avoid water damage", "isCorrect": false },
+        { "content": "D) To increase sunlight reflection", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which community system is vital for effective bushfire response?",
+      "theme": "Community Actions and Response",
+      "options": [
+        { "content": "A) Early warning systems", "isCorrect": true },
+        { "content": "B) Public swimming pools", "isCorrect": false },
+        { "content": "C) Community gardens", "isCorrect": false },
+        { "content": "D) Decorative street lighting", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What should you do if you find a smoldering log or ember near your home during a bushfire?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) Ignore it, it is probably harmless",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Extinguish it safely if possible, and report it",
+          "isCorrect": true
+        },
+        { "content": "C) Use water to splash it", "isCorrect": false },
+        { "content": "D) Cover it with leaves", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "How do fire-retardant materials help during a bushfire?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) They resist burning and slow the spread of fire",
+          "isCorrect": true
+        },
+        {
+          "content": "B) They attract moisture from the air",
+          "isCorrect": false
+        },
+        {
+          "content": "C) They change the color of the fire",
+          "isCorrect": false
+        },
+        { "content": "D) They make the fire burn cooler", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Why is it advised to stay inside a vehicle if trapped by bushfire?",
+      "theme": "Community Actions and Response",
+      "options": [
+        { "content": "A) It can outspeed the fire", "isCorrect": false },
+        {
+          "content": "B) It provides a good vantage point to watch the fire",
+          "isCorrect": false
+        },
+        {
+          "content": "C) It offers more protection than being in the open",
+          "isCorrect": true
+        },
+        {
+          "content": "D) The fire will not heat the interior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the importance of having a water source on your property in a bushfire zone?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) It can be used to fight small fires before they escalate",
+          "isCorrect": true
+        },
+        {
+          "content": "B) It can be used for recreational purposes post-fire",
+          "isCorrect": false
+        },
+        { "content": "C) It increases property value", "isCorrect": false },
+        { "content": "D) It attracts wildlife", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which factor should NOT be considered when planning a new housing development in a bushfire-prone area?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) Accessibility for emergency services",
+          "isCorrect": false
+        },
+        { "content": "B) Natural barriers like rivers", "isCorrect": false },
+        {
+          "content": "C) Proximity to nightlife and urban amenities",
+          "isCorrect": true
+        },
+        {
+          "content": "D) Local vegetation types and their flammability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What does the term 'ember attack' mean in the context of bushfires?",
+      "theme": "Community Actions and Response",
+      "options": [
+        {
+          "content": "A) Small burning particles carried by wind that can start new fires ahead of the main front",
+          "isCorrect": true
+        },
+        { "content": "B) A method of firefighting", "isCorrect": false },
+        {
+          "content": "C) A psychological tactic used by emergency services",
+          "isCorrect": false
+        },
+        {
+          "content": "D) A competitive fire lighting sport",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What should be included in a bushfire survival plan?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) A list of what to take, where to go, and family roles",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Instructions for lighting backfires",
+          "isCorrect": false
+        },
+        { "content": "C) A schedule for garden watering", "isCorrect": false },
+        { "content": "D) Guidelines for pet training", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "In the event of a bushfire, why is it important to wear protective clothing?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) To protect against heat, embers, and smoke",
+          "isCorrect": true
+        },
+        {
+          "content": "B) It is not important; casual clothes are sufficient",
+          "isCorrect": false
+        },
+        { "content": "C) To keep cool", "isCorrect": false },
+        { "content": "D) For identification by rescuers", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is one of the first actions to take when you hear a bushfire warning?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Go outside to see where the fire is",
+          "isCorrect": false
+        },
+        { "content": "B) Activate your bushfire plan", "isCorrect": true },
+        { "content": "C) Start hosing down your house", "isCorrect": false },
+        {
+          "content": "D) Call friends and invite them over for safety",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which is NOT a safe practice during a bushfire evacuation?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Keeping all windows and doors closed",
+          "isCorrect": false
+        },
+        {
+          "content": "B) Wearing protective clothing and a respirator",
+          "isCorrect": false
+        },
+        { "content": "C) Leaving the lights off", "isCorrect": true },
+        {
+          "content": "D) Staying aware of the current fire updates",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why is it crucial to know the location of all family members during a bushfire?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) To ensure everyone is accounted for and safe",
+          "isCorrect": true
+        },
+        { "content": "B) To delegate tasks effectively", "isCorrect": false },
+        {
+          "content": "C) To confirm who will bring the valuables",
+          "isCorrect": false
+        },
+        {
+          "content": "D) It is not crucial; they will take care of themselves",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How should pets be handled during a bushfire threat?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Keep them confined or securely leashed",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Let them roam free, they can sense and escape the fire",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Leave them in the house with food",
+          "isCorrect": false
+        },
+        { "content": "D) Use them to carry valuables", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is an unsafe practice when evacuating from a bushfire?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Driving slowly to avoid smoke", "isCorrect": false },
+        { "content": "B) Following the evacuation plan", "isCorrect": false },
+        {
+          "content": "C) Returning to check on your property before clearance is given",
+          "isCorrect": true
+        },
+        {
+          "content": "D) Listening to emergency broadcasts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What should you do after a bushfire has passed your area?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Driving slowly to avoid smoke", "isCorrect": true },
+        { "content": "B) Following the evacuation plan", "isCorrect": false },
+        {
+          "content": "C) Returning to check on your property before clearance is given",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Listening to emergency broadcasts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why is it important to have an emergency kit ready during bushfire season?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) It ensures you have essential items if you need to evacuate quickly",
+          "isCorrect": true
+        },
+        { "content": "B) It is required by law", "isCorrect": false },
+        {
+          "content": "C) It can be used as a fire extinguisher",
+          "isCorrect": false
+        },
+        { "content": "D) To entertain children", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "Which of these should NOT be in a bushfire emergency kit?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Copies of important documents", "isCorrect": false },
+        { "content": "B) Flammable liquids", "isCorrect": true },
+        { "content": "C) A first aid kit", "isCorrect": false },
+        { "content": "D) Water and non-perishable food", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What should be a priority when safeguarding your home against bushfires?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Installing decorative lights", "isCorrect": false },
+        { "content": "B) Using glass that reflects heat", "isCorrect": false },
+        {
+          "content": "C) Removing flammable materials from around the house",
+          "isCorrect": true
+        },
+        {
+          "content": "D) Painting the exterior with fire-resistant paint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How can you prepare your home to withstand ember attacks?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Seal all gaps in the home's exterior and install fine metal mesh screens",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Open windows to prevent pressure buildup",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Spray the house with water periodically",
+          "isCorrect": false
+        },
+        { "content": "D) Cover the house with a tarp", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What is a primary reason for creating an evacuation plan for bushfires?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) To ensure a safe and organized departure if a fire threatens",
+          "isCorrect": true
+        },
+        { "content": "B) It's a fun family project", "isCorrect": false },
+        {
+          "content": "C) To comply with insurance policies",
+          "isCorrect": false
+        },
+        {
+          "content": "D) To improve the home's resale value",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Which tool is essential for maintaining a firebreak?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) A heavy-duty mower or slasher", "isCorrect": true },
+        { "content": "B) A leaf blower", "isCorrect": false },
+        { "content": "C) Decorative stones", "isCorrect": false },
+        { "content": "D) Solar lights", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What feature should a house have to provide the best protection in a bushfire zone?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Large windows for natural light", "isCorrect": false },
+        { "content": "B) Non-combustible roofing material", "isCorrect": true },
+        { "content": "C) High fences for wind protection", "isCorrect": false },
+        { "content": "D) An external wooden deck", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What should you avoid doing during a bushfire?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Leaving hoses connected to taps unattended",
+          "isCorrect": true
+        },
+        { "content": "B) Wearing protective clothing", "isCorrect": false },
+        { "content": "C) Drinking plenty of water", "isCorrect": false },
+        {
+          "content": "D) Staying informed through emergency broadcasts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "Why is it advisable to keep cars fueled and facing out during bushfire season?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) For a quick and efficient evacuation",
+          "isCorrect": true
+        },
+        { "content": "B) It reduces fuel consumption", "isCorrect": false },
+        {
+          "content": "C) Cars operate better when facing out",
+          "isCorrect": false
+        },
+        { "content": "D) It's easier to clean the car", "isCorrect": false }
+      ]
+    },
+    {
+      "content": "What does maintaining a 'defensible space' mean in bushfire terms?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) Creating a buffer zone between your home and potential fuel sources like trees and shrubs",
+          "isCorrect": true
+        },
+        {
+          "content": "B) Installing a fence around the property",
+          "isCorrect": false
+        },
+        {
+          "content": "C) Defending your property with fire hoses",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Keeping weapons to protect your home",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "How effective are sprinkler systems in a bushfire scenario?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        {
+          "content": "A) They can help dampen the property and reduce fire impact",
+          "isCorrect": true
+        },
+        { "content": "B) They attract more embers", "isCorrect": false },
+        {
+          "content": "C) They are mainly for law enforcement",
+          "isCorrect": false
+        },
+        {
+          "content": "D) Sprinklers are ineffective against bushfires ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "content": "What is the best practice for using a generator during a bushfire?",
+      "theme": "Evacuation and Survival",
+      "options": [
+        { "content": "A) Keep it inside the house", "isCorrect": false },
+        {
+          "content": "B) Place it outside and away from flammable materials",
+          "isCorrect": true
+        },
+        {
+          "content": "C) Use it to power emergency lighting only",
+          "isCorrect": false
+        },
+        {
+          "content": "D) It should not be used during a bushfire",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
